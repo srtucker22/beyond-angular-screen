@@ -1,6 +1,6 @@
 'use strict';
 
-// We assigne everything to app to make the formatting of various components "cleaner"
+// We assign everything to app to make the formatting of various components "cleaner"
 var app = angular.module('demoApp', [
 	'ngRoute'
 ]);

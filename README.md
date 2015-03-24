@@ -13,7 +13,7 @@ This is sample project to test familiarity with AngularJS
 
 
 ### Tasks
-	To complete the screening, complete the following tasks, paying attention to detail and commenting
+	To complete the screening, complete the following tasks, paying attention to detail and commenting where appropriate.
 
 	1. Create a directive for the header.
 		- In app > scripts > directives : update header.js so the code in app > views > main.html works.
@@ -24,7 +24,7 @@ This is sample project to test familiarity with AngularJS
 		- json file is located in app > scripts > json
 
 	3. On the news page, loop through the json results created in step 2
-		- The output should just show the "title" and "exert"
+		- The output should just show the "title", "thumnbnail" and "exert"
 		- The initial loads should be limited to 3.
 		- Only published Articles should be displayed.
 		- A "show more" button should appear below

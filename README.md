@@ -11,9 +11,8 @@ This is sample project to test familiarity with AngularJS
 	$ grunt serve
 
 
-
 ### Tasks
-	To complete the screening, complete the following tasks, paying attention to detail and commenting
+	To complete the screening, complete the following tasks, we want to see your approach so guidence is intentionally vague.
 
 	1. Create a directive for the header.
 		- In app > scripts > directives : update header.js so the code in app > views > main.html works.

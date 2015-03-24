@@ -1,9 +1,9 @@
 'use strict';
 
-angular.module('demoApp')
-	.controller('MainCtrl', [
-		'$scope',
-		function($scope) {
+app.controller('MainCtrl', [
+	'$scope',
 
-		}
-	]);
+	function($scope) {
+
+	}
+]);

@@ -26,5 +26,6 @@ This is sample project to test familiarity with AngularJS
 	3. On the news page, loop through the json results created in step 2
 		- The output should just show the "title" and "exert"
 		- The initial loads should be limited to 3.
+		- Only published Articles should be displayed.
 		- A "show more" button should appear below
 		- When the "show more" button is clicked the remaiming articles should be displayed.

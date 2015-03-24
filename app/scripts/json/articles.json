@@ -1,0 +1,58 @@
+{
+	"count": 6,
+	"results": [{
+		"title": "Turn your TV screen into a beautiful backdrop",
+		"excerpt": "With a new backdrop option, you can customize your TV screen with your favorite photos",
+		"published_date": "2015-03-18T00:00:00Z",
+		"image": "https://lh5.ggpht.com/hgNhnC-NwEmtFUPl_MjLGyP7hpBdjUCo7n_oo4hwqkUVPtDkvagXD5Y54BjmoUp_Pz5VsyyJolAKrjvaqv-6lUiGjfjAsUio6cw=s1600",
+		"thumb": "https://lh3.ggpht.com/-9e1qfh_CvwVVXBhTf00j7TWGZ23pHPxyj0JoLrx5R4dBbHwicXhBJuTTdXr0Xs-Ku_t7KXn_R6nWxaSig1ZDxTajmQWkyYhhbgT=s1600",
+		"slug": "turn-your-tv-screen-into-a-beautiful-backdrop",
+		"status": "published",
+		"featured": false
+	}, {
+		"title": "Why are Android OS names so sweet?",
+		"excerpt": "Cupcake, Froyo, Jelly Bean, Lollipop... The list of Android OS releases sounds like the makings of a serious sugar high. Discover how this delicious naming convention began.",
+		"published_date": "2015-03-18T00:00:00Z",
+		"image": "https://lh6.ggpht.com/tZanlvcREjZoLJgIqeHC1SB0kYVahXXLduCFMr6h47PqI2bfM9Wdsk8tM7ni7y5QPBPH1x4wyy3GXdN_KBUf-E3IEiT6YxTCSg=s1600",
+		"thumb": "https://lh4.ggpht.com/Ljubq1px5p5Jse_7soPeAuO8qa0DGY8uI20FtU6JdyY0If2D3k--GF4_Ng-qp3SwWmdizb1nJ-S6_Yrw42SymxA7OlBl4xZ06w=s1600",
+		"slug": "why-are-android-os-names-so-sweet",
+		"status": "published",
+		"featured": false
+	}, {
+		"title": "Designing the perfect Lollipop",
+		"excerpt": "Material design: one consistent design language flexible enough to span devices across mobile, desktop, and beyond.",
+		"published_date": "2015-03-13T00:00:00Z",
+		"image": "https://lh4.ggpht.com/FDYjGTA0EEtJ193Batv7IAk6O1PNRS6bZM1hiWYuzqegyt--ShuOesvYybtGiHyTxmANyKjv2R0Gxxkjg1HixPu0-HByVjb6g3c=s1600",
+		"thumb": "https://lh6.ggpht.com/Zq3QS4GWJH-TvlSBdvmR1XD6j6tpjobH_7tSjtvtvJMic8z5gJkgDVFTViylHzrrbQnhS2nciGk5omktJDBxJ-VFtLIqU9WkZO4=s1600",
+		"slug": "designing-the-perfect-lollipop",
+		"status": "published",
+		"featured": false
+	}, {
+		"title": "5 things you didn’t know you could do with Chromecast",
+		"excerpt": "So you know Chromecast is a great way to enjoy movies, TV shows and music on a big screen. But do you know it can do a whole lot more? ",
+		"published_date": "2015-03-13T00:00:00Z",
+		"image": "https://lh4.ggpht.com/TWXZxbVR0_VFTcPeigpEl8ZaLkRJdI93EhWFKyYVcOHNP5agJvUWsARDfcUleWiN7m7ZA3x4zULa0OAyWPCvtT0raYsvaL8CwWM=s1600",
+		"thumb": "https://lh6.ggpht.com/NMgAi8lPz45Y4Rtmt8h9p_UzkgtaWkAyydPaRZIGeHOSwuX0TSPFozvOW1r35ZaTXM14IhkuB2gDz5zggLhoQopvmV_pMOyLKPg=s1600",
+		"slug": "5-things-you-didnt-know-you-could-do-with-chromecast",
+		"status": "published",
+		"featured": false
+	}, {
+		"title": "Life-proof your Nexus 9",
+		"excerpt": "Life may be full of bumps and bruises, but your device doesn’t have to be. Whatever kind of user you are, there’s a feature or accessory to help keep you and your Nexus 9 safe.",
+		"published_date": "2015-03-13T00:00:00Z",
+		"image": "https://lh4.ggpht.com/pIgNFiAjT7SnJc_OM2NlNXjnxc8Qib0jDFBjfnfFZ3rsLKLoz0i5uIv0zOxc98N4V0Yq16Jzhb84Lzglk32EzykoxVxAxjqqqw=s1600",
+		"thumb": "https://lh6.ggpht.com/s2Bbzqsm9IDchqZwgl7T3d5gpCLDxcGUepyRAZX8t2KHyNhnZinvwI7bGv9dqJDG6h9Narx0DZdsdA-Xi-QcAgqYSuzHp7ZbkBQ=s1600",
+		"slug": "how-to-life-proof-your-nexus-9",
+		"status": "published",
+		"featured": false
+	}, {
+		"title": "Introducing fun family games for Chromecast.",
+		"excerpt": "Whether you're looking forward to a quiet movie night or a rousing game night, there's something for everyone. ",
+		"published_date": "2014-11-11T00:00:00Z",
+		"image": "https://lh6.ggpht.com/shnVtCu9uBaPfxgsR8rk1UiynR3i8Zo4NfNsoTra9bFwc9Y4DnUKt4KIqD6AX6yNM4XxE7FGJu9cpWQvVBgPgnlMrqc6Ia5T4as=s1600",
+		"thumb": "https://lh6.ggpht.com/Y22N7Ado8hA8k5pEAfrHdm396RCqCYhywHQ7OKTCMv7OxkiE-Itf_7Ii0oFQ_sxrplLwkIcccjRThWbmrsgVZLriruf5pEADsgI=s1600",
+		"slug": "introducing-fun-family-games-for-chromecast",
+		"status": "draft",
+		"featured": false
+	}],
+}

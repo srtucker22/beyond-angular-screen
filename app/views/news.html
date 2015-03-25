@@ -3,12 +3,15 @@
 <h1>News</h1>
 
 <!-- Loop through the article results -->
-<div>
+<div class="row" ng-repeat="article in filteredItems = (newsctrl.articles | filter:{'status': 'published'} | orderBy : 'published_date' | limitTo : newsctrl.viewableArticleCount)">
 	<!-- Headline -->
-	<h2>Headline</h2>
+	<h2 class="col-xs-12">{{article.title}}</h2>
 	<!-- Thumbnail -->
-	<img src="" alt="">
+	<img ng-src="{{article.thumb}}" alt="" class="col-xs-12">
 	<!-- Excerpt -->
-	<p>Exert</p>
+	<p class="col-xs-12">{{article.excerpt}}</p>
 </div>
 <!-- End Loop -->
+<div class="row text-center">
+  <button class="btn btn-primary" ng-if="newsctrl.showMore" ng-click="newsctrl.showMoreArticles()">show more</button>
+</div>

@@ -13,7 +13,8 @@ app.config(function($routeProvider) {
 		})
 		.when('/news', {
 			templateUrl: 'views/news.html',
-			controller: 'NewsCtrl'
+			controller: 'NewsCtrl',
+			controllerAs: 'newsctrl'
 		})
 		.otherwise({
 			redirectTo: '/'

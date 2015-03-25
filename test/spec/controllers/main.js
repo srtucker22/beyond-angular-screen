@@ -3,7 +3,7 @@
 describe('Controller: MainCtrl', function () {
 
   // load the controller's module
-  beforeEach(module('geoffApp'));
+  beforeEach(module('demoApp'));
 
   var MainCtrl,
     scope;

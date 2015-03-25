@@ -2,11 +2,11 @@
 	<ul class="nav nav-pills pull-right">
 
 		<!-- See if scope variable "page" can set the active class -->
-		<li class="active">
+		<li ng-class="{'active': page === '/'}">
 			<a href="#">Home</a>
 		</li>
 
-		<li>
+		<li ng-class="{'active': page === '/news'}">
 			<a href="#/news">News</a>
 		</li>
 	</ul>

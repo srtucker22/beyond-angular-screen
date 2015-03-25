@@ -4,6 +4,6 @@ app.controller('MainCtrl', [
 	'$scope',
 
 	function($scope) {
-
+    $scope.awesomeThings = ['Geoff', 'Angular', 'Simon'];
 	}
 ]);
